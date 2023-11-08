@@ -1,0 +1,48 @@
+body {
+    background-color: #6AB8E6;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+button {
+    border-radius: 100%;
+    padding: 3vw;
+    border: none;
+
+}
+
+button:hover{
+    background-color: pink;
+}
+
+input {
+    background-color: pink;
+    
+}
+
+input:hover {
+    background-color: yellow;
+}
+
+p {
+    background-color: gray;
+    width: 100px;
+    padding: 3vw;
+    border-radius: 100%;
+    margin: 10px;
+    text-align: center;
+}
+
+p:hover {
+    background-color: black;
+    color:white;
+}
+
+h3{
+    font-size: 100px;
+}
+
+.fun {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: 100px;
+}
