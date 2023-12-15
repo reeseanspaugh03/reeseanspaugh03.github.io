@@ -1,0 +1,32 @@
+
+
+   .container {
+    display: flex;
+  }
+  
+  .image, .text {
+    flex: 1;
+    box-sizing: border-box;
+    max-width: 50%; /* Adjust the maximum width of each item as needed */
+    padding: 20px; /* Adjust padding as needed */
+  }
+  
+  .image img {
+    width: 100%;
+    height: auto;
+    display: block;
+    max-width: 100%;
+    max-height: 100%;
+  }
+  p.textboxa {
+  
+    /*margin-right: 60%;
+    margin-left: 10%;*/
+    padding: 1%;
+    background-color: #7EA5A7;
+    font-family: 'Sacramento', cursive;
+    color: white;
+    font-size: 50px;
+    border-radius: 8px;
+}
+  
