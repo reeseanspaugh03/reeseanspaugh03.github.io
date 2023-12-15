@@ -15,6 +15,17 @@ p.textboxj {
     color: white;
     font-size: 60px;
     border-radius: 8px;
+    padding:20px;
+}
+p.textboxb {
+
+    
+    background-color: #97B2F0;
+    font-family: 'Caveat', cursive;
+    color: white;
+    font-size: 60px;
+    border-radius: 8px;
+    padding: 20px;
 }
 body.august{
     background-color: #DBB093;
@@ -27,6 +38,9 @@ body.august{
 
 body.james{
     background-color: #7CA68C;
+}
+body.betty{
+    background-color: #BFEDF0;
 }
 
 button.august1 {
@@ -55,9 +69,8 @@ position: fixed;
   text-decoration: none;
   border: none;
   cursor: pointer;
-  :hover {
-    background-color: #2980b9;
-  }
+  font-size: 30px;
+  
 }
 
 /* button.august2 {
@@ -171,6 +184,7 @@ position: fixed;
     text-decoration: none;
     border: none;
     cursor: pointer;
+    font-size: 30px;
   }
   nav ul {
     list-style: none;
