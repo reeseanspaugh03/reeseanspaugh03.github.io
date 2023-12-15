@@ -38,7 +38,7 @@
     align-items: center;
     flex-wrap: nowrap; /* Prevent items from wrapping to the next line */
     padding: 50px;
-    margin-top: 200px;
+    margin-top: 50px;
 }
 
 .image-button {
