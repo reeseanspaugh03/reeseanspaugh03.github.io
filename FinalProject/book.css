@@ -5,7 +5,7 @@ p.textboxa {
     background-color: #7EA5A7;
     font-family: 'Sacramento', cursive;
     color: white;
-    font-size: 30px;
+    font-size: 60px;
     border-radius: 8px;
 }
 p.textboxj {
@@ -14,11 +14,16 @@ p.textboxj {
     background-color: #51433A;
     font-family: 'Just Another Hand', cursive;
     color: white;
-    font-size: 30px;
+    font-size: 60px;
     border-radius: 8px;
 }
 body.august{
     background-color: #DBB093;
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 body.james{
