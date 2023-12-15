@@ -77,9 +77,8 @@ button.august2 {
 }
 
 .room{
-  
-        display: flex;
-        justify-content: center;
+    display: grid;
+    place-items: center;
       }
 
 button.left{
