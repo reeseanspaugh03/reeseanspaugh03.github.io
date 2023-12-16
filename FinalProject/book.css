@@ -29,11 +29,7 @@ p.textboxb {
 }
 body.august{
     background-color: #DBB093;
-    /* height: 100%;
-    margin: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center; */
+
 }
 
 body.james{
@@ -74,76 +70,6 @@ position: fixed;
   
 }
 
-/* button.august2 {
- 
-    outline: 0;
-    border:0;
-    cursor: pointer;
-    text-decoration: none;
-    position: relative;
-    color: #000;
-    background: #fff;
-    line-height: 30px;
-    border-radius: 40px;
-    padding: 20px;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    font-size: 30px;
-    font-weight: 600;
-    box-shadow: rgb(255, 198, 0) -2px -2px 0px 2px, rgb(243, 159, 205) 0px 0px 0px 4px, rgba(0, 0, 0, 0.05) 0px 0px 2px 7px;
-    transition: all 0.2s;
-    button.august1:hover{
-        box-shadow: rgb(246, 84, 174) -2px -2px 0px 2px, rgb(255, 198, 0) 0px 0px 0px 4px, rgba(0, 0, 0, 0.05) 0px 0px 2px 7px;
-        transform: scale(1.01);
-    }
-    
-} */
-
-/* .room{
-    display: grid;
-    place-items: center;
-    max-width: fit-content;
-    max-height: fit-content;
-      } */
-
-/* button.left{
-    margin-right: 80%;
-    display: inline-block;
-    outline: 0;
-    border:0;
-    cursor: pointer;
-    text-decoration: none;
-    position: relative;
-    color: #000;
-    background: #fff;
-    line-height: 30px;
-    border-radius: 40px;
-
-    font-size: 30px;
-    font-weight: 600;
-    box-shadow: rgb(255, 198, 0) -2px -2px 0px 2px, rgb(243, 159, 205) 0px 0px 0px 4px, rgba(0, 0, 0, 0.05) 0px 0px 2px 7px;
-    transition: all 0.2s;
-} */
-
-/* button.right{
-    margin-left: 80%;
-    display: inline-block;
-    outline: 0;
-    border:0;
-    cursor: pointer;
-    text-decoration: none;
-    position: relative;
-    color: #000;
-    background: #fff;
-    line-height: 30px;
-    border-radius: 40px;
-    font-size: 30px;
-    font-weight: 600;
-    box-shadow: rgb(255, 198, 0) -2px -2px 0px 2px, rgb(243, 159, 205) 0px 0px 0px 4px, rgba(0, 0, 0, 0.05) 0px 0px 2px 7px;
-    transition: all 0.2s;
-} */
-
-
 
 
 
@@ -154,8 +80,8 @@ position: fixed;
   .image, .text {
     flex: 1;
     box-sizing: border-box;
-    max-width: 50%; /* Adjust the maximum width of each item as needed */
-    padding: 20px; /* Adjust padding as needed */
+    max-width: 50%; 
+    padding: 20px;
   }
   
   .image img {
