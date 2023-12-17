@@ -7,8 +7,8 @@
   .image, .text {
     flex: 1;
     box-sizing: border-box;
-    max-width: 50%; /* Adjust the maximum width of each item as needed */
-    padding: 20px; /* Adjust padding as needed */
+    max-width: 50%;
+    padding: 20px; 
   }
   
   .image img {
@@ -20,8 +20,7 @@
   }
   p.textboxa {
   
-    /*margin-right: 60%;
-    margin-left: 10%;*/
+
     padding: 1%;
     background-color: #7EA5A7;
     font-family: 'Sacramento', cursive;
